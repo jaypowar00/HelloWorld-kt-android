@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="btn_show_toast">Get Some Toast</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_recycler_veiw">Go to Recycler View</string>
+    <string name="input_msg">Enter Msg For Next Activity</string>
+</resources>
